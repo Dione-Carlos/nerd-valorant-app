@@ -6,7 +6,7 @@
 Aplicativo que fornece aos jogadores de valorant pixels estratégicos.
 
 
-## Follow us on instagram
+## Siga-nos no Instagram
 
 <div> 
   <a href="https://instagram.com/nerdvalorantoficial" target="_blank">
@@ -14,27 +14,28 @@ Aplicativo que fornece aos jogadores de valorant pixels estratégicos.
   </a>
 </div>
 
-## Weekly Progress
+## Progresso Semanal
 
-<p  align="center">Every Monday we release updates on the development of our app, 
-  <a href="https://ko-fi.com/nerdvalorant/posts" target="_blank">click here</a> to follow along.
+<p align="center">Toda segunda-feira lançamos atualizações sobre o progresso do nosso aplicativo, <a href="https://ko-fi.com/nerdvalorant/posts" target="_blank">clique aqui</a> para acompanhar.
 </p>
 
 <p  align="center"><img src="https://i.imgur.com/z4HZdsK.png" align="center"></img></p>
 
 
-## Authors
+## Autores
 
-- Welcome, i'm [Dione Carlos](https://www.github.com/Dione-Carlos) and i'm the developer of this project.
-- Hi, i'm [Jovana Machado](https://linktr.ee/jovanacopy) and i'm the designer of this project.
+- Bem-vindo, me chamo [Dione Carlos](https://www.github.com/Dione-Carlos) e sou o desenvolvedor deste projeto.
+- Olá, sou a [Jovana Machado](https://linktr.ee/jovanacopy) e sou a designer deste projeto.
 
 
-## Support us
+## Apoie-nos
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1BZTPF)
-## Support and partnerships
 
-Send an email to contato@nerdvalorant.com.br.
+
+## Apoios e parcerias
+
+Contatos via email para contato@nerdvalorant.com.br.
 
 
 ## License
