@@ -16,7 +16,7 @@ Aplicativo que fornece aos jogadores de valorant pixels estratégicos.
 
 ## Progresso Semanal
 
-<p align="center">Toda segunda-feira lançamos atualizações sobre o progresso do nosso aplicativo, <a href="https://ko-fi.com/nerdvalorant/posts" target="_blank">clique aqui</a> para acompanhar.
+<p align="center">Toda segunda-feira lançamos atualizações sobre o progresso do nosso aplicativo, <a href="https://github.com/Dione-Carlos/nerd-valorant-app/releases" target="_blank">clique aqui</a> para acompanhar.
 </p>
 
 <p  align="center"><img src="https://i.imgur.com/z4HZdsK.png" align="center"></img></p>
